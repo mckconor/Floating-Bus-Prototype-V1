@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "636304926235",
+    "firebase_url": "https://floating-bus-prototype.firebaseio.com",
+    "project_id": "floating-bus-prototype",
+    "storage_bucket": "floating-bus-prototype.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636304926235:android:e53fb8564b6f1f02",
+        "android_client_info": {
+          "package_name": "com.example.mckennc9.floating_bus_prototype_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636304926235-48pdnn3uu049o4nh91o47oqal9te56f1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwE8nN6BZR_6UDJyFrjhP3SbohOTPdaRw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
